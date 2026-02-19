@@ -1,55 +1,4 @@
 
-
-<div align="center">
-
-# <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="40px" /> Hello 👋, I'm Bharat Yadav!
-
-<p align="center">
-  <samp>
-    <b>B.Tech Candidate in AI & Data Science</b> 
-    <br/>
-    Specializing in predictive modeling, NLP solutions, and data-driven systems.
-    <br/>
-    JNEC MGM University | Class of 2026 
-  </samp>
-</p>
-
----
-
-### 🚀 Quick Glance
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h4><img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="25px" /> Key Projects</h4>
-      <ul>
-        <li><b>NLP Chatbot:</b> Rule-based & ML-enhanced (Flask API). [cite: 24]</li>
-        <li><b>Customer Churn:</b> Predictive modeling (~85% accuracy). [cite: 21]</li>
-        <li><b>Stock Forecasting:</b> ARIMA and LSTM applications. [cite: 23]</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h4><img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/ml.png" width="25px" /> Core Tech</h4>
-      <ul>
-        <li><b>Frameworks:</b> TensorFlow, PyTorch, & Scikit-learn. [cite: 13, 14]</li>
-        <li><b>Big Data:</b> Hadoop, Spark, & ETL. [cite: 15]</li>
-        <li><b>Cloud:</b> AWS, GCP, & Azure ML. [cite: 16]</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h4><img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pug_dance.gif" width="25px" /> Soft Skills</h4>
-      <ul>
-        <li>Problem-Solving </li>
-        <li>Team Collaboration </li>
-        <li>Continuous Learning </li>
-        <li>Time Management </li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
 <div align="center">
 
 # <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="40px" /> <b>Hello, I'm Bharat Yadav!</b>
@@ -58,9 +7,9 @@
 
 <p align="center">
   <samp>
-    <b>Detail-oriented B.Tech candidate from JNEC MGM University (Class of 2026)</b> [cite: 8, 9]
+    <b>Detail-oriented B.Tech candidate from JNEC MGM University (Class of 2026)</b> 
     <br/>
-    Passionate about applying AI/ML expertise to develop innovative, data-driven solutions[cite: 4, 6].
+    Passionate about applying AI/ML expertise to develop innovative, data-driven solutions.
   </samp>
 </p>
 
@@ -104,22 +53,22 @@
 ### 🛠️ Expanded Technical Stack
 
 <p align="center">
-  [cite_start]<b>Languages & Databases</b> [cite: 12, 17]<br/>
+  [cite_start]<b>Languages & Databases</b> <br/>
   <a href="#"><img src="https://skillicons.dev/icons?i=python,r,sql,java,cpp,mysql,mongodb,postgres" /></a>
 </p>
 
 <p align="center">
-  [cite_start]<b>Data Science & Machine Learning</b> [cite: 13, 14]<br/>
+  [cite_start]<b>Data Science & Machine Learning</b> <br/>
   <a href="#"><img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,pandas,numpy,matplotlib" /></a>
 </p>
 
 <p align="center">
-  [cite_start]<b>Cloud & Big Data Tools</b> [cite: 15, 16, 18]<br/>
+  [cite_start]<b>Cloud & Big Data Tools</b> <br/>
   <a href="#"><img src="https://skillicons.dev/icons?i=aws,gcp,azure,hadoop,spark,git,vscode" /></a>
 </p>
 
 <p align="center">
-  [cite_start]<b>Analytics & BI Tools</b> [cite: 18]<br/>
+  [cite_start]<b>Analytics & BI Tools</b> <br/>
   <a href="#"><img src="https://skillicons.dev/icons?i=tableau,powershell" /></a>
 </p>
 
