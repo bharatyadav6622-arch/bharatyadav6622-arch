@@ -1,78 +1,89 @@
 ## Hi there 👋
 
-Gemini said
-<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello!
-<p align="center" >
-<samp>
-My name is <em>Bharat</em>. I am a Final Year B.Tech student...
+<div align="center">
 
+# <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="40px" /> Hello, I'm Bharat Yadav!
 
- Artificial Intelligence & Data Science enthusiast... AI Intern.
-
-
-
-Exploring the intersection of technology and human behavior,
-
-
-
-building intelligent text processing systems,
-
-
-
-and constantly seeking to solve real-world security challenges.
-</samp>
-
-
-
-
-
-</p>
-
-<img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="30%"/>
-
-<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> I’m currently working on ...
-<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/ml.png" height="35px" />  AI-based text processing projects at kSemin Pvt Ltd
-
-<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/3243_take_my_money.png" height="40px" />  A specialized Phishing Detection Model for proactive security
-
-<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> I’m currently learning ...
-<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/csharp.svg" width="30px" /> C# for scalable Backend Development
-
-<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/functional.png" height="30px" /> Advanced Human Psychology & Criminology patterns
-
-<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/ml.png" height="35px" /> Advanced NLP and Text Analysis techniques
-
-<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pug_dance.gif" width="60px" /> I’m looking to collaborate on ...
-<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/open_source.png" height="30px" /> AI/ML open-source initiatives or data security tools
-
-<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/question.png" width="50px" />  Ask me about ...
-<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/chat.gif" height="35px" /> Large Language Models, Cybersecurity, or why humans behave the way they do online
-
-<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> How to reach me: ...
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="35px" style="margin: 5px;" />
-</a>
-<a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="30px" style="margin: 5px;" />
-</a>
+  <samp>
+    <b>B.Tech Candidate in AI & Data Science</b> [cite: 8]
+    <br/>
+    Specializing in predictive modeling, NLP solutions, and data-driven systems. [cite: 4]
+    <br/>
+    JNEC MGM University | Class of 2026 [cite: 9]
+  </samp>
 </p>
 
-<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> Tools and Frameworks
+---
+
+### 🚀 Quick Glance
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4><img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="25px" /> Key Projects</h4>
+      <ul>
+        <li><b>NLP Chatbot:</b> Rule-based & ML-enhanced (Flask API). [cite: 24]</li>
+        <li><b>Customer Churn:</b> Predictive modeling (~85% accuracy). [cite: 21]</li>
+        <li><b>Stock Forecasting:</b> ARIMA and LSTM applications. [cite: 23]</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h4><img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/ml.png" width="25px" /> Core Tech</h4>
+      <ul>
+        <li><b>Frameworks:</b> TensorFlow, PyTorch, & Scikit-learn. [cite: 13, 14]</li>
+        <li><b>Big Data:</b> Hadoop, Spark, & ETL. [cite: 15]</li>
+        <li><b>Cloud:</b> AWS, GCP, & Azure ML. [cite: 16]</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h4><img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pug_dance.gif" width="25px" /> Soft Skills</h4>
+      <ul>
+        <li>Problem-Solving </li>
+        <li>Team Collaboration </li>
+        <li>Continuous Learning </li>
+        <li>Time Management </li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Technical Stack
+
 <p align="center">
-<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/python.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/csharp.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/sql.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/visualstudio_code.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/bash.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/python.svg" height="40px" alt="Python" />
+  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/sql.svg" height="40px" alt="SQL" />
+  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/java.svg" height="40px" alt="Java" />
+  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/visualstudio_code.svg" height="40px" alt="VS Code" />
+  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/bash.svg" height="40px" alt="Git" />
 </p>
 
-<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" /> GitHub Stats
+---
+
+### 📊 GitHub Analytics
+
 <p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&show_icons=true" />
-
-<img float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&show_icons=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bharatyadav6622-arch&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharatyadav6622-arch&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" width="41%" />
 </p>
+
+---
+
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bharat-yadav02">
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="30px" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:bharatyadav6622@gmail.com">
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="25px" />
+  </a>
+</p>
+
+</div>
 
 <!--
 **bharatyadav6622-arch/bharatyadav6622-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
