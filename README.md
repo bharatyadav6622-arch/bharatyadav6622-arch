@@ -6,11 +6,11 @@
 
 <p align="center">
   <samp>
-    <b>B.Tech Candidate in AI & Data Science</b> [cite: 8]
+    <b>B.Tech Candidate in AI & Data Science</b> 
     <br/>
-    Specializing in predictive modeling, NLP solutions, and data-driven systems. [cite: 4]
+    Specializing in predictive modeling, NLP solutions, and data-driven systems.
     <br/>
-    JNEC MGM University | Class of 2026 [cite: 9]
+    JNEC MGM University | Class of 2026 
   </samp>
 </p>
 
