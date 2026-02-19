@@ -53,22 +53,22 @@
 ### 🛠️ Expanded Technical Stack
 
 <p align="center">
-  [cite_start]<b>Languages & Databases</b> <br/>
+<b>Languages & Databases</b> <br/>
   <a href="#"><img src="https://skillicons.dev/icons?i=python,r,sql,java,cpp,mysql,mongodb,postgres" /></a>
 </p>
 
 <p align="center">
-  [cite_start]<b>Data Science & Machine Learning</b> <br/>
+  <b>Data Science & Machine Learning</b> <br/>
   <a href="#"><img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,pandas,numpy,matplotlib" /></a>
 </p>
 
 <p align="center">
-  [cite_start]<b>Cloud & Big Data Tools</b> <br/>
+ <b>Cloud & Big Data Tools</b> <br/>
   <a href="#"><img src="https://skillicons.dev/icons?i=aws,gcp,azure,hadoop,spark,git,vscode" /></a>
 </p>
 
 <p align="center">
-  [cite_start]<b>Analytics & BI Tools</b> <br/>
+ <b>Analytics & BI Tools</b> <br/>
   <a href="#"><img src="https://skillicons.dev/icons?i=tableau,powershell" /></a>
 </p>
 
