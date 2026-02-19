@@ -1,8 +1,8 @@
-## Hi there 👋
+
 
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="40px" /> Hello, I'm Bharat Yadav!
+# <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="40px" /> Hello 👋, I'm Bharat Yadav!
 
 <p align="center">
   <samp>
@@ -50,26 +50,83 @@
 
 ---
 
-### 🛠️ Technical Stack
+<div align="center">
+
+# <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="40px" /> <b>Hello, I'm Bharat Yadav!</b>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=B.Tech+AI+%26+Data+Science;Specializing+in+Machine+Learning;NLP+and+Deep+Learning+Enthusiast;Predictive+Modeling+Expert" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/python.svg" height="40px" alt="Python" />
-  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/sql.svg" height="40px" alt="SQL" />
-  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/java.svg" height="40px" alt="Java" />
-  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/visualstudio_code.svg" height="40px" alt="VS Code" />
-  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/bash.svg" height="40px" alt="Git" />
+  <samp>
+    <b>Detail-oriented B.Tech candidate from JNEC MGM University (Class of 2026)</b> [cite: 8, 9]
+    <br/>
+    Passionate about applying AI/ML expertise to develop innovative, data-driven solutions[cite: 4, 6].
+  </samp>
 </p>
 
 ---
 
-### 📊 GitHub Analytics
+### 🚀 Projects & Experience
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4><img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="25px" /> Key Projects</h4>
+      <ul>
+        <li><b>NLP Chatbot:</b> Rule-based & ML-enhanced with Flask.</li>
+        <li><b>Customer Churn:</b> Prediction with ~85% accuracy.</li>
+        <li><b>Stock Forecasting:</b> ARIMA and LSTM models.</li>
+        <li><b>Movie Recs:</b> Collaborative filtering using Surprise Library.</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h4><img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/ml.png" width="25px" /> Core Tech Focus</h4>
+      <ul>
+        <li><b>Deep Learning:</b> CNN, RNN, Transformers.</li>
+        <li><b>Libraries:</b> TensorFlow, Keras, PyTorch.</li>
+        <li><b>Other:</b> Computer Vision & Time Series.</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h4><img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pug_dance.gif" width="25px" /> Soft Skills</h4>
+      <ul>
+        <li>Problem-Solving </li>
+        <li>Team Collaboration </li>
+        <li>Continuous Learning </li>
+        <li>Time Management </li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Expanded Technical Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bharatyadav6622-arch&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharatyadav6622-arch&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" width="41%" />
+  [cite_start]<b>Languages & Databases</b> [cite: 12, 17]<br/>
+  <a href="#"><img src="https://skillicons.dev/icons?i=python,r,sql,java,cpp,mysql,mongodb,postgres" /></a>
+</p>
+
+<p align="center">
+  [cite_start]<b>Data Science & Machine Learning</b> [cite: 13, 14]<br/>
+  <a href="#"><img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,pandas,numpy,matplotlib" /></a>
+</p>
+
+<p align="center">
+  [cite_start]<b>Cloud & Big Data Tools</b> [cite: 15, 16, 18]<br/>
+  <a href="#"><img src="https://skillicons.dev/icons?i=aws,gcp,azure,hadoop,spark,git,vscode" /></a>
+</p>
+
+<p align="center">
+  [cite_start]<b>Analytics & BI Tools</b> [cite: 18]<br/>
+  <a href="#"><img src="https://skillicons.dev/icons?i=tableau,powershell" /></a>
 </p>
 
 ---
+
+
+
 
 ### 📫 Connect with Me
 
